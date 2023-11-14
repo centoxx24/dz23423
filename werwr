@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>дз
+</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  <header></header>
+  <main>
+    <div class="q">
+      
+      <div class="krug1"></div>
+      <div class="krug2"></div>
+      <div class="onetwo"></div>
+    </div>
+    <div class="test1">
+      <div class="zxcv">
+        <div class="zxcv_supermini"></div>
+        <div class="zxcv_mini"></div>
+      </div>
+      
+    </div>
+    <div class="nedoFooter">
+      <div class="nedo1">
+        <div class="krugg"></div>
+        <div class="krugg2"></div>
+        <div class="krugg3"></div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer></footer>
+</body>
+</html>

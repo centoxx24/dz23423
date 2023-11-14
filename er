@@ -1,0 +1,144 @@
+body{
+    background-color: rgb(198, 160, 234);
+}
+.q {
+    
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(47, 255, 151);
+    border-radius: 15px;
+    }
+    
+    .krug1 {
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: rgb(47, 255, 151);
+    border: 1px solid;
+    outline-color: black;
+    outline-style: hidden;
+    outline-width: 2px;
+    }
+    .onetwo{
+        
+        height: 45px;
+        width: 45px;
+        border-radius: 50%;
+        background-color: rgb(47, 255, 151);
+        border: 1px solid;
+        outline-color: black;
+        outline-style: hidden;
+        outline-width: 2px;
+    }
+    .krug2 {
+        background-color: yellow;
+        justify-content: center;
+        height: 45px;
+        width: 500px;
+        border-radius: 15px;
+        border: 1px solid;
+        outline-color: black;
+        outline-style: hidden;
+        outline-width: 2px;
+
+    }
+    .nedoFooter{
+    display: flex;
+    align-items: flex-end;
+     height: 80px;
+    width: 100%;
+    border-radius: 15px;
+    }
+    .nedo1{
+        display: flex;
+        height: 78px;
+        width: 100%;
+        background-color: rgb(47, 255, 151);
+        border-radius: 15px;
+       
+    }
+    .krugg{
+      
+        margin: 5px;
+        height: 65px;
+        width: 65px;
+        border-radius: 50%;
+        background-color: rgb(47, 255, 151);
+        border: 1px solid;
+        outline-color: black;
+        outline-style: hidden;
+        outline-width: 2px;
+    }
+    .krugg2{
+        
+        margin: 5px;
+        height: 65px;
+        width: 65px;
+        border-radius: 50%;
+        background-color: rgb(47, 255, 151);
+        border: 1px solid;
+        outline-color: black;
+        outline-style: hidden;
+        outline-width: 2px;
+    }
+    .krugg3{
+      
+        margin: 5px;
+        height: 65px;
+        width: 65px;
+        border-radius: 50%;
+        background-color: rgb(47, 255, 151);
+        border: 1px solid;
+        outline-color: black;
+        outline-style: hidden;
+        outline-width: 2px;
+    }
+    .test1{
+        margin: 10px;
+        display: flex;
+        width: 250px;
+        height: 425px;
+    }
+    .zxcv{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        
+        height: 425px;
+        width: 250px;
+        background-color: rgb(47, 255, 151);
+        border-radius: 15px;
+        border: 1px solid;
+        outline-color: black;
+        outline-style: hidden;
+        outline-width: 2px;
+
+    }
+    .zxcv_mini{
+        order: 1;
+        margin: 10px;
+        justify-content: center;
+        height: 128px;
+        width: 200px;
+        background-color: rgb(47, 255, 151);
+        border-radius: 15px;
+        border: 1px solid;
+        outline-color: black;
+        outline-style: hidden;
+        outline-width: 2px;
+    }
+    .zxcv_supermini{
+        order: 2;
+        align-self: center;
+        height: 30px;
+        width: 50px;
+        background-color: yellow;
+        border-radius: 15px;
+        border: 1px solid;
+        outline-color: black;
+        outline-style: hidden;
+        outline-width: 2px;
+    }
+   
